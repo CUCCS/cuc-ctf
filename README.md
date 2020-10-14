@@ -10,9 +10,10 @@
 例：同学 apple 在  `writeups/` 目录下建立了自己的文件夹  `writeups/apple` ，则他个人仓库下的文件目录大致如下：
 
 ```
-└─ writeups
-    └─ apple
-        |─ writeup1.md
-        |─ writeup2.md
-        └─ writeup3.md
+└─ 2020_Autumn
+    └─ writeups
+        └─ apple
+            |─ writeup1.md
+            |─ writeup2.md
+            └─ writeup3.md
 ```
