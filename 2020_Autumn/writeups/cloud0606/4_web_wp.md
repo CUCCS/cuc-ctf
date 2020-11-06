@@ -69,6 +69,8 @@ This level is sponsored by the letters <i>i</i>, <i>m</i> and
 
 ## CISCN2019华东北赛区web2
 
+- todo
+
 https://buuoj.cn/challenges
 
 题目地址:web类 CISCN2019华东北赛区web2
