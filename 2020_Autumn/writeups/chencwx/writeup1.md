@@ -21,7 +21,7 @@
 - 使用`fcrackzip`暴力破解密码
 
   ```bash
-fcrackzip -b -c1 -l 4 -u
+  fcrackzip -b -c1 -l 4 -u
   ```
   
   ![](./img/7639.png)
@@ -63,9 +63,7 @@ fcrackzip -b -c1 -l 4 -u
 
   
 
-​    
 
-​    
 
 ## [SUCTF2018]single [dog](https://buuoj.cn/challenges#[SUCTF2018]single%20dog)
 
