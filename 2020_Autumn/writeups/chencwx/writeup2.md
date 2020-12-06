@@ -143,10 +143,10 @@
 
 - 于是仿照网上的资料写了一段代码
 
-  ```bash
-alphabet = "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ1234567890!@#$%^&*()_+- ={}[]"
+  ```python
+  alphabet = "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ1234567890!@#$%^&*()_+- ={}[]"
   f = open("flag.txt", "r")
-data = f.read()
+  data = f.read()
   result = {d:0 for d in alphabet}
    
   def sort_by_value(d):
@@ -185,7 +185,7 @@ data = f.read()
 - flag为
 
   ```bash
-flag{st3g0_saurus_wr3cks}
+  flag{st3g0_saurus_wr3cks}
   ```
   
   
